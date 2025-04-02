@@ -1,7 +1,9 @@
 Objective
 
  Implement Laravel routes and controllers.
+ 
  Create and apply Blade templates for dynamic web pages.
+ 
  Collect and validate user data using Laravel forms.
 
  To access;
